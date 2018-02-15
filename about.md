@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just your generic linux geek, I like to hack on various projects including the
+gentoo repository, coreboot, the linux kernel itself, and odd projects which
+need some help with their build scripts to work with mingw-w64.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Nothing really special here. I like tinkering with cool embedded devices and
+doing what I can to promote the growth of FOSS software in general.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hanetzer@protonmail.com](mailto:hanetzer@protonmail.com)
