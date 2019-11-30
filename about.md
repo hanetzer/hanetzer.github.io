@@ -15,4 +15,4 @@ doing what I can to promote the growth of FOSS software in general.
 
 ### Contact me
 
-[hanetzer@protonmail.com](mailto:hanetzer@protonmail.com)
+[hanetzer@startmail.com](mailto:hanetzer@startmail.com)
