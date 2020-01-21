@@ -55,7 +55,7 @@ Your phone can boot and operate just fine without this image, but once its gone,
 you will never be able to update the phone again, as it is updated by the delta OTAs.
 
 The problem here is, this file can and will be erased if at any point you erase
-your userdata partition. Performing a 'master reset' will delete it. Using fastboot
+your userdata partition. ~~Performing a 'master reset' will delete it.~~[^1] Using fastboot
 to erase userdata via `fastboot -w` will erase it. And unlocking your bootloader
 will also erase it (by design; if it were not, anyone who steals your phone could
 unlock the bootloader and load a rom to read your personal files and data).
@@ -79,3 +79,5 @@ you will never be able to patch your phone to protect yourself.
 Paying $900 for a phone which gets time locked as soon as you unlock it or even wipe
 it is Settling, and you should listen to OnePlus on this matter, and NeverSettle for
 defective products.
+
+[^1]: Further experimentation shows that performing full resets of the phone via the option in settings or via recovery mode does not kill a fake reserve.img I placed there. My mistake. I've never seen any android phone before this one that preserved any files in `/data/` after performing factory resets in either manner, so you can see why I would believe that.
