@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile OnePlus 7t Pro 5g McLaren - Defective by design. Part 1
+title: T-Mobile OnePlus 7t Pro 5g McLaren - The Unlock Menace
 ---
 
 Never Settle. Emblazoned on the website, promotional materials, and the home screen
