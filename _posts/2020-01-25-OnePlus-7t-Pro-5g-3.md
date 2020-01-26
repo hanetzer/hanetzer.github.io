@@ -3,7 +3,7 @@ layout: post
 title: Hotdogg Wars - Revenge of the Nerds
 ---
 
-Back again. We have a fix.
+Back again. We have a [fix](https://forum.xda-developers.com/7t-pro/how-to/hd1925-10-0-19-fastboot-rom-ota-fixer-t4040629).
 
 As mentioned in a footnote on my first post[^1], I was mistaken about a complete reset destroying the file needed, so all users who are not into custom roms and such stuff are more than likely safe. I'm still unsure if a user who has not unlocked their boot loader will be able to issue the fastboot commands that will destroy it.
 
@@ -30,5 +30,5 @@ Full details on how to restore and links to downloads will be provided on [xda-f
 Big thanks to all the folks on xda and our telegram group chat, and may you have many happy updates!
 
 [^1]: [note](/OnePlus-7t-Pro-5g/#fn:1)
-[^2]: Not my tool, but don't want folks to bother the creator.
+[^2]: [I wish I was smart enough to write this](https://github.com/bkerler/edl)
 
