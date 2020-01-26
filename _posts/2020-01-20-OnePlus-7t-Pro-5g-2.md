@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile OnePlus 7t Pro 5g McLaren - Attack of the Support Drones
+title: Hotdogg Wars - Attack of the Support Drones
 ---
 
 Further developments on this front. As you may have seen, the previous blog [post](/OnePlus-7t-Pro-5g/)
