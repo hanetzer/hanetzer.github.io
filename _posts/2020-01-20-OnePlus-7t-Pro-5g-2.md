@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hotdogg Wars - Attack of the Support Drones
+tags: hotdogg oneplus tmobile android
 ---
 
 Further developments on this front. As you may have seen, the previous blog [post](/OnePlus-7t-Pro-5g/)

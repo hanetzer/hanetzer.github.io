@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hotdogg Wars - The Unlock Menace
+tags: hotdogg oneplus tmobile android
 ---
 
 Never Settle. Emblazoned on the website, promotional materials, and the home screen

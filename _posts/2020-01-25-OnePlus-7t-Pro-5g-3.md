@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hotdogg Wars - Revenge of the Nerds
+tags: hotdogg oneplus tmobile android
 ---
 
 Back again. We have a [fix](https://forum.xda-developers.com/7t-pro/how-to/hd1925-10-0-19-fastboot-rom-ota-fixer-t4040629).
