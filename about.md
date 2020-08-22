@@ -16,3 +16,15 @@ doing what I can to promote the growth of FOSS software in general.
 ### Contact me
 
 [hanetzer@startmail.com](mailto:hanetzer@startmail.com)
+
+### Support my tinkering
+
+Currently, any donations given via btc will go towards the purchase of one of
+the Raptor Computing POWER9 systems for use with developing coreboot for (I am
+currently using a patched qemu setup with gdb for testing).
+
+<div style="text-align: center">
+<a href="bitcoin:1LjHTrh7syUYcqxiCh4t7J2ripuoC3ASdS"><img src="/images/btc.png" />
+<p>1LjHTrh7syUYcqxiCh4t7J2ripuoC3ASdS</p>
+</a>
+</div>
